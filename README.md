@@ -112,7 +112,7 @@ This is a comprehensive guide for people who are moving to Germany or already li
 ### Financial Essentials
 - **IBAN** - International Bank Account Number
 - **SEPA** - Single Euro Payments Area
-- **GEZ** - Broadcasting contribution (Rundfunkbeitrag) - €18.36/month
+- **GEZ** - Broadcasting contribution (Rundfunkbeitrag) - €18.36/month (verify current rate at [rundfunkbeitrag.de](https://www.rundfunkbeitrag.de/))
 - **Schufa** - Credit scoring system
 - **Tax ID (Steuer-ID)** - Automatically assigned after registration
 
@@ -180,7 +180,7 @@ This is a comprehensive guide for people who are moving to Germany or already li
 - [Fair Work](https://www.faire-mobilitaet.de/) - Counseling for EU workers
 - [DGB](https://www.dgb.de/) - German Trade Union Confederation
 - **Kündigungsschutz** - Protection against dismissal
-- **Mindestlohn** - Minimum wage (€12.41/hour as of 2024)
+- **Mindestlohn** - Minimum wage (€12.41/hour as of 2024, verify current rate at [bundesregierung.de](https://www.bundesregierung.de/))
 - **Arbeitszeugnis** - Work reference (legally required)
 
 ### Freelancing
@@ -238,7 +238,7 @@ This is a comprehensive guide for people who are moving to Germany or already li
 ### Deutsche Bahn (German Railways)
 - [DB Website](https://www.bahn.de/) - Train schedules and booking
 - **BahnCard** - Discount cards (25%, 50%, or 100% off)
-- **Deutschland-Ticket** - €49/month nationwide public transport pass
+- **Deutschland-Ticket** - €49/month nationwide public transport pass (verify current price)
 - **Sparpreis** - Advance purchase discounts
 - **ICE** - High-speed intercity trains
 
